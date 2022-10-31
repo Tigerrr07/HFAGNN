@@ -1,0 +1,7 @@
+__pycache__/
+
+# exclude large file, ckpt and saved data
+src/data/
+src/ckpt/
+# log/
+src/saved/
